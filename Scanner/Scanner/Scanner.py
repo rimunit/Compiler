@@ -15,4 +15,4 @@ while True:
     
     tasks.append(task)
     print(f"Задача '{task}' добавлена!")
-    print(f"Задача '{task}' добавлена!")
+
